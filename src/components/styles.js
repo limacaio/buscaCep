@@ -48,7 +48,15 @@ const styles = StyleSheet.create({
         color:'#ffff',
         fontSize:20,
         fontWeight:'bold'
-
+    },
+    resultado:{
+        flex:1,
+        justifyContent:"center",
+        alignItems:'center',
+       
+    },
+    itemText:{
+        fontSize:20,
     }
 
 });
